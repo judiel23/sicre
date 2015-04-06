@@ -5,8 +5,8 @@
 	<title>Document</title>
 	<link rel="stylesheet" type="text/css" href="https://bootswatch.com/yeti/bootstrap.min.css">
 	<script type="text/javascript" source="https://code.jquery.com/jquery-1.11.2.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<script type="text/javascript" source="app.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/style_admin.css">
+	<script type="text/javascript" source="js/app.js"></script>
 </head>
 <body>
 
